@@ -1,0 +1,12 @@
+TEMP/
+.vercel
+__pycache__
+X509-cert-5951378973314855097.pem
+test.py
+soulForgeResourceMap/
+.test.py
+.gcloudignore
+app.yaml
+app.py
+backup/
+venv
